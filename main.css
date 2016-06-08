@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+}
+
+body{
+	background-color: black;
+}
+
+.image{
+	width: 30%;
+    float: left;
+
+}
+.content{
+	width: 65%;
+	float: left;
+	padding-left:5%;
+	height: 100px;
+
+}
+#search-results{
+	width: 100%;
+	float: left;
+}
+.thumbnail{
+	width: 100%;
+}
+
+.description{
+	color: white;
+}
+.row{
+	background-color: #CDDC39;
+	width: 100%;
+	float: left;
+}
+#search-term{
+float: left;
+    height: 100px;
+    width: 100%;
+    background-color: #0288D1;
+    padding-top: 100px;
+    text-align: center;
+}
